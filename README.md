@@ -1,3 +1,8 @@
+# This repo is now archived.
+
+Please see [the new repository](https://github.com/govau/api-gov-au)
+
+
 # api.gov.au 
 Makes it easier to discover electronic government services
 
